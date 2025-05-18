@@ -4,7 +4,7 @@ import classes from './Header.module.css';
 import HeaderButton from "./HeaderButton";
 
 
-function Header() {
+function Header() { 
     return(
         <Fragment>
             <header className= {classes.header} >
